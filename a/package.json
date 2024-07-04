@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "dependencies": {
+    "is-number": "^6"
+  },
+  "license": "ISC"
+}
